@@ -1,0 +1,76 @@
+.form-container {
+    max-width: 600px;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: #c2bfbf;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .form-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  .ant-form-item-label > label {
+    font-size: 16px;
+  }
+  
+  .ant-form-item-control > * {
+    height: 40px;
+    font-size: 16px;
+  }
+  
+  .ant-form-item-control-input {
+    padding: 0;
+  }
+  
+  .ant-table {
+    margin-top: 20px;
+  }
+  
+  .ant-table-thead > tr > th {
+    background-color: #000000;
+    font-weight: bold;
+  }
+  
+  .ant-table-tbody > tr > td {
+    vertical-align: middle;
+  }
+  
+  .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+  
+  .ant-btn-primary:hover,
+  .ant-btn-primary:focus {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  
+  .table-container{
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #cac8c8;
+    padding: 20px;
+    border-radius: 5px;
+
+  }
+  .table-wid{
+    border-spacing: 2px;
+    border-radius: 5px;
+  }
+  .filterContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

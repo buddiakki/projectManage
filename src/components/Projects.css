@@ -1,0 +1,80 @@
+.project {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .project h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .project button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .project button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .project form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .project label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .project input,
+  .project select {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .project button[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .project button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  .project div {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  .project h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .project p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
